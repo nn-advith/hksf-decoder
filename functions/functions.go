@@ -247,6 +247,32 @@ func EncryptSingleFile(infile string) error {
 	return nil
 }
 
+func EncryptDirectory(indir string) error {
+
+	err := filepath.WalkDir(indir, func(path string, d fs.DirEntry, err error) error {
+		if err != nil {
+			fmt.Printf("skipping: some error while traversing dir for %s: %v", path, err)
+			return nil
+		}
+		if d.Type().IsRegular() {
+			err := EncryptSingleFile(path)
+			if err != nil {
+				fmt.Printf("skipping: error encrypting single file %s: %v", path, err)
+				return nil
+			}
+		} else if d.Type().IsDir() && path != indir {
+			// dont want subdirs to be checked
+			return fs.SkipDir
+		}
+		return nil
+	})
+
+	if err != nil {
+		return fmt.Errorf("error while encrypting directory %v", err)
+	}
+	return nil
+}
+
 func CheckFileEquality(files ...string) (bool, error) {
 	equal := true
 	md5file := func(fp string) (string, error) {

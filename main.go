@@ -65,7 +65,7 @@ func main() {
 
 				err := functions.DecryptSingleFile(fullname)
 				if err != nil {
-					fmt.Println("error decrypting file")
+					fmt.Println("error decrypting file", err)
 				}
 
 				fmt.Fprintf(os.Stdout, "\033[032mSUCCESS\033[0m: decoded into file; Go get your GEO!\n")
@@ -78,14 +78,18 @@ func main() {
 				// if err != nil {
 				// 	fmt.Println("error decrypting directory")
 				// }
+				err := functions.EncryptDirectory(fullname)
+				if err != nil {
+					fmt.Println("error encryptinh directory: ", err)
+				}
 				fmt.Fprintf(os.Stdout, "\033[032mSUCCESS\033[0m: encoded files; Rename files to match user[1-4].dat to use them in game\n")
 			} else {
 				err := functions.EncryptSingleFile(fullname)
 				if err != nil {
 					fmt.Println("error decrypting file")
 				}
-				equal, _ := functions.CheckFileEquality("./DAT/user4.dat", "./ENCODED/user4-encoded.dat")
-				fmt.Println(equal)
+				// equal, _ := functions.CheckFileEquality("./DAT/user4.dat", "./ENCODED/user4-encoded.dat")
+				// fmt.Println(equal)
 				fmt.Fprintf(os.Stdout, "\033[032mSUCCESS\033[0m: encoded into file; Rename file to match user[1-4].dat to use them in game\n")
 			}
 		}

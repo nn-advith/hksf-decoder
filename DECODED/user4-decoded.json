@@ -1,0 +1,5458 @@
+{
+ "playerData": {
+  "LastSetFieldName": "SeenMapperGreymoor",
+  "version": "1.0.28324",
+  "RevisionBreak": 28104,
+  "date": "2025-09-10",
+  "profileID": 1,
+  "playTime": 18989.62,
+  "openingCreditsPlayed": true,
+  "permadeathMode": 0,
+  "CollectedDockDemoKey": false,
+  "PreMemoryState": {
+   "IsRecorded": false,
+   "Health": 5,
+   "Silk": 9,
+   "Rosaries": 248,
+   "ShellShards": 400,
+   "DoFullHeal": true
+  },
+  "HasStoredMemoryState": false,
+  "health": 5,
+  "maxHealth": 5,
+  "maxHealthBase": 5,
+  "healthBlue": 0,
+  "prevHealth": 5,
+  "heartPieces": 1,
+  "SeenBindPrompt": true,
+  "geo": 331,
+  "silk": 0,
+  "silkMax": 9,
+  "silkRegenMax": 1,
+  "IsSilkSpoolBroken": true,
+  "silkSpoolParts": 1,
+  "atBench": true,
+  "respawnScene": "Greymoor_02",
+  "mapZone": 3,
+  "extraRestZone": 0,
+  "respawnMarkerName": "RestBench",
+  "respawnType": 1,
+  "hazardRespawnFacing": 1,
+  "HeroCorpseScene": "",
+  "HeroDeathScenePos": {
+   "x": 26.76,
+   "y": 45.13
+  },
+  "HeroDeathSceneSize": {
+   "x": 70.0,
+   "y": 80.0
+  },
+  "HeroCorpseType": 0,
+  "HeroCorpseMoneyPool": 0,
+  "nailRange": 0,
+  "beamDamage": 0,
+  "nailUpgrades": 0,
+  "InvNailHasNew": false,
+  "hasSilkSpecial": true,
+  "silkSpecialLevel": 0,
+  "hasNeedleThrow": true,
+  "hasThreadSphere": false,
+  "hasParry": false,
+  "hasHarpoonDash": false,
+  "hasSilkCharge": false,
+  "hasSilkBomb": false,
+  "hasSilkBossNeedle": false,
+  "hasNeedolin": false,
+  "attunement": 0,
+  "attunementLevel": 1,
+  "hasNeedolinMemoryPowerup": false,
+  "hasDash": true,
+  "hasBrolly": true,
+  "hasWalljump": false,
+  "hasDoubleJump": false,
+  "hasQuill": true,
+  "hasChargeSlash": false,
+  "hasSuperJump": false,
+  "QuillState": 1,
+  "HasSeenDash": true,
+  "HasSeenWalljump": false,
+  "HasSeenSuperJump": false,
+  "HasSeenNeedolin": false,
+  "HasSeenNeedolinUp": false,
+  "HasSeenNeedolinDown": false,
+  "HasSeenHarpoon": false,
+  "HasSeenEvaHeal": false,
+  "cloakOdour_slabFly": 0,
+  "HasSeenSilkHearts": true,
+  "hasKilled": true,
+  "CompletedEndings": 0,
+  "LastCompletedEnding": 0,
+  "fixerQuestBoardConvo": false,
+  "fixerAcceptedQuestConvo": false,
+  "fixerBridgeConstructed": false,
+  "fixerBridgeBreaking": false,
+  "fixerBridgeBroken": false,
+  "fixerStatueConstructed": false,
+  "fixerStatueConvo": false,
+  "metSherma": true,
+  "seenBellBeast": true,
+  "shermaPos": 2,
+  "shermaConvoBellBeast": false,
+  "metShermaPilgrimsRest": false,
+  "shermaInBellhart": false,
+  "shermaSeenInBellhart": false,
+  "shermaSeenInSteps": false,
+  "shermaAtSteps": false,
+  "shermaConvoCoralBench": false,
+  "shermaConvoCoralJudges": false,
+  "hasActivatedBellBench": true,
+  "shermaWokeInSteps": false,
+  "enteredCoral_10": false,
+  "shermaCitadelEntrance_Visiting": false,
+  "shermaCitadelEntrance_Seen": false,
+  "shermaCitadelEntrance_Left": false,
+  "openedCitadelSpaLeft": false,
+  "openedCitadelSpaRight": false,
+  "shermaCitadelSpa_Visiting": true,
+  "shermaCitadelSpa_Seen": false,
+  "shermaCitadelSpa_Left": false,
+  "shermaCitadelSpa_ExtraConvo": false,
+  "shermaInEnclave": false,
+  "shermaCitadelEnclave_Seen": false,
+  "metShermaEnclave": false,
+  "shermaEnclaveHealingConvo": false,
+  "shermaQuestActive": false,
+  "shermaHealerActive": false,
+  "shermaWoundedPilgrim": 1,
+  "shermaCaretakerConvo1": false,
+  "shermaCaretakerConvoFinal": false,
+  "metMapper": true,
+  "mapperRosaryConvo": false,
+  "mapperMentorConvo": true,
+  "mapperQuillConvo": false,
+  "mapperMappingConvo": true,
+  "mapperCalledConvo": false,
+  "mapperHauntedBellhartConvo": false,
+  "mapperBellhartConvo": false,
+  "mapperBellhartConvoTimePassed": false,
+  "mapperBellhartConvo2": false,
+  "mapperAway": false,
+  "mapperMetInAnt04": true,
+  "mapperTubeConvo": false,
+  "mapperBrokenBenchConvo": false,
+  "mapperCursedConvo": false,
+  "mapperMaggottedConvo": false,
+  "mapperSellingTubePins": false,
+  "mapperMasterAfterConvo": false,
+  "mapperReactedToBrokenBellBench": false,
+  "SeenMapperBonetown": true,
+  "MapperLeftBonetown": false,
+  "MapperAppearInBellhart": false,
+  "SeenMapperBoneForest": true,
+  "MapperLeftBoneForest": true,
+  "SeenMapperDocks": true,
+  "MapperLeftDocks": true,
+  "SeenMapperWilds": true,
+  "MapperLeftWilds": true,
+  "SeenMapperCrawl": false,
+  "MapperLeftCrawl": false,
+  "SeenMapperGreymoor": true,
+  "MapperLeftGreymoor": false,
+  "SeenMapperBellhart": false,
+  "MapperLeftBellhart": false,
+  "SeenMapperShellwood": false,
+  "MapperLeftShellwood": false,
+  "SeenMapperHuntersNest": true,
+  "MapperLeftHuntersNest": true,
+  "SeenMapperJudgeSteps": false,
+  "MapperLeftJudgeSteps": false,
+  "SeenMapperDustpens": false,
+  "MapperLeftDustpens": false,
+  "SeenMapperPeak": false,
+  "MapperLeftPeak": false,
+  "SeenMapperShadow": false,
+  "MapperLeftShadow": false,
+  "SeenMapperCoralCaverns": false,
+  "MapperLeftCoralCaverns": false,
+  "mapperSparIntro": false,
+  "mapperLocationAct3": 0,
+  "seenMapperAct3": false,
+  "mapperIsFightingAct3": true,
+  "mapperFightGroup": 1,
+  "mapperConvo_Act3Intro": false,
+  "mapperConvo_Act3IntroTimePassed": false,
+  "mapperConvo_Act3NoStock": false,
+  "mapperConvo_WhiteFlower": false,
+  "metDruid": true,
+  "druidTradeIntro": true,
+  "druidMossBerriesSold": 0,
+  "mossBerryValueList": [
+   2,
+   1,
+   3
+  ],
+  "druidAct3Intro": false,
+  "metLearnedPilgrim": false,
+  "metLearnedPilgrimAct3": false,
+  "metDicePilgrim": false,
+  "dicePilgrimDefeated": false,
+  "dicePilgrimState": 0,
+  "dicePilgrimGameExplained": false,
+  "dicePilgrimBank": 16,
+  "metGarmond": true,
+  "garmondMoorwingConvo": false,
+  "garmondMoorwingConvoReady": false,
+  "garmondPurposeConvo": true,
+  "garmondSeenInGreymoor10": false,
+  "garmondInDust05": false,
+  "garmondSeenInDust05": false,
+  "garmondEncounterCooldown": false,
+  "enteredSong_19": false,
+  "enteredSong_01": false,
+  "enteredSong_02": false,
+  "garmondInSong01": false,
+  "garmondSeenInSong01": false,
+  "garmondInSong02": false,
+  "garmondSeenInSong02": false,
+  "enteredSong_13": false,
+  "garmondInSong13": false,
+  "garmondSeenInSong13": false,
+  "enteredSong_17": false,
+  "garmondInSong17": false,
+  "garmondSeenInSong17": false,
+  "garmondInLibrary": false,
+  "garmondLibrarySeen": false,
+  "garmondLibraryMet": false,
+  "garmondLibraryOffered": false,
+  "garmondLibraryDefeatedHornet": false,
+  "garmondWillAidInForumBattle": false,
+  "garmondInEnclave": false,
+  "garmondMetEnclave": false,
+  "garmondEncounters_act3": 0,
+  "metGarmondAct3": false,
+  "garmondFinalQuestReady": false,
+  "garmondBlackThreadDefeated": false,
+  "pilgrimRestMerchant_SingConvo": false,
+  "pilgrimRestMerchant_RhinoRuckusConvo": false,
+  "pilgrimRestCrowd": 5,
+  "nuuIsHome": true,
+  "MetHalfwayHunterFan": true,
+  "MetHunterFanOutside": false,
+  "nuuVisiting_splinterQueen": false,
+  "nuuEncountered_splinterQueen": false,
+  "nuuVisiting_coralDrillers": false,
+  "nuuEncountered_coralDrillers": false,
+  "nuuVisiting_skullKing": false,
+  "nuuEncountered_skullKing": false,
+  "nuuVisiting_zapNest": false,
+  "nuuEncountered_zapNest": false,
+  "nuuSlappedOutside": false,
+  "nuuIntroAct3": false,
+  "nuuMementoAwarded": false,
+  "gillyMet": true,
+  "gillyIntroduced": true,
+  "gillyStatueConvo": true,
+  "gillyTrapConvo": false,
+  "gillyHunterCampConvo": false,
+  "gillyAct3Convo": false,
+  "gillyLocation": 1,
+  "gillyLocationAct3": 0,
+  "gillyQueueMovingOn": false,
+  "hasJournal": true,
+  "seenJournalMsg": true,
+  "seenMateriumMsg": false,
+  "seenJournalQuestUpdateMsg": false,
+  "EnemyJournalKillData": {
+   "list": [
+    {
+     "Name": "MossBone Crawler",
+     "Record": {
+      "Kills": 22,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "MossBone Fly",
+     "Record": {
+      "Kills": 12,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Roller",
+     "Record": {
+      "Kills": 5,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Mossbone Mother",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Goomba",
+     "Record": {
+      "Kills": 40,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Goomba Large",
+     "Record": {
+      "Kills": 15,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Flyer",
+     "Record": {
+      "Kills": 9,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Circler",
+     "Record": {
+      "Kills": 52,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Crawler",
+     "Record": {
+      "Kills": 9,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim 03",
+     "Record": {
+      "Kills": 42,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim 01",
+     "Record": {
+      "Kills": 42,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Aspid Collector",
+     "Record": {
+      "Kills": 23,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim Moss Spitter",
+     "Record": {
+      "Kills": 10,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Beast",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Thumper",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim Fly",
+     "Record": {
+      "Kills": 6,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Dock Worker",
+     "Record": {
+      "Kills": 24,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Dock Flyer",
+     "Record": {
+      "Kills": 18,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim StaffWielder",
+     "Record": {
+      "Kills": 6,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Shield Dock Worker",
+     "Record": {
+      "Kills": 3,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Tar Slug",
+     "Record": {
+      "Kills": 3,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hopper",
+     "Record": {
+      "Kills": 7,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter Buzzer",
+     "Record": {
+      "Kills": 76,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter Tiny",
+     "Record": {
+      "Kills": 54,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter Child",
+     "Record": {
+      "Kills": 26,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter Throw",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter",
+     "Record": {
+      "Kills": 15,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Hunter Fly",
+     "Record": {
+      "Kills": 6,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Lace",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Fields Flock Flyers",
+     "Record": {
+      "Kills": 7,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Fields Goomba",
+     "Record": {
+      "Kills": 25,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Fields Flyer",
+     "Record": {
+      "Kills": 12,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Bone Circler Vicious",
+     "Record": {
+      "Kills": 4,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Spine Floater",
+     "Record": {
+      "Kills": 18,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Song Golem",
+     "Record": {
+      "Kills": 1,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Pilgrim Bell Thrower",
+     "Record": {
+      "Kills": 9,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Crow",
+     "Record": {
+      "Kills": 14,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Farmer Catcher",
+     "Record": {
+      "Kills": 8,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Farmer Centipede",
+     "Record": {
+      "Kills": 3,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Mitefly",
+     "Record": {
+      "Kills": 9,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Mite",
+     "Record": {
+      "Kills": 10,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Farmer Scissors",
+     "Record": {
+      "Kills": 7,
+      "HasBeenSeen": true
+     }
+    },
+    {
+     "Name": "Crowman",
+     "Record": {
+      "Kills": 3,
+      "HasBeenSeen": false
+     }
+    },
+    {
+     "Name": "Crowman Dagger",
+     "Record": {
+      "Kills": 2,
+      "HasBeenSeen": false
+     }
+    }
+   ]
+  },
+  "currentInvPane": 1,
+  "showGeoUI": false,
+  "showHealthUI": false,
+  "promptFocus": false,
+  "seenFocusTablet": false,
+  "seenDreamNailPrompt": false,
+  "isFirstGame": false,
+  "enteredTutorialFirstTime": false,
+  "isInvincible": false,
+  "infiniteAirJump": false,
+  "currentArea": "GREYMOOR",
+  "visitedMossCave": true,
+  "visitedBoneBottom": true,
+  "visitedBoneForest": true,
+  "visitedMosstown": true,
+  "visitedHuntersTrail": true,
+  "visitedDeepDocks": true,
+  "visitedWilds": true,
+  "visitedGrove": false,
+  "visitedGreymoor": true,
+  "visitedWisp": false,
+  "visitedBellhartHaunted": false,
+  "visitedBellhart": false,
+  "visitedBellhartSaved": false,
+  "visitedShellwood": false,
+  "visitedCrawl": false,
+  "visitedDustpens": false,
+  "visitedShadow": false,
+  "visitedAqueducts": false,
+  "visitedMistmaze": false,
+  "visitedCoral": false,
+  "visitedCoralRiver": false,
+  "visitedCoralRiverInner": false,
+  "visitedCoralTower": false,
+  "visitedSlab": false,
+  "visitedGrandGate": false,
+  "visitedCitadel": false,
+  "visitedUnderstore": false,
+  "visitedWard": false,
+  "visitedHalls": false,
+  "visitedLibrary": false,
+  "visitedStage": false,
+  "visitedGloom": false,
+  "visitedWeave": false,
+  "visitedMountain": false,
+  "visitedIceCore": false,
+  "visitedHang": false,
+  "visitedHangAtrium": false,
+  "visitedEnclave": false,
+  "visitedArborium": false,
+  "visitedCogwork": false,
+  "visitedCradle": false,
+  "visitedRuinedCradle": false,
+  "visitedFleatopia": false,
+  "visitedFleaFestival": false,
+  "visitedAbyss": false,
+  "citadelHalfwayComplete": false,
+  "scenesVisited": [
+   "Tut_01",
+   "Tut_01_top",
+   "Tut_02",
+   "Tut_01b",
+   "Tut_03",
+   "Bonetown",
+   "Bellway_01",
+   "Bone_01",
+   "Bone_01c",
+   "Bone_01c_bot",
+   "Bone_02",
+   "Bone_10",
+   "Bone_10_left",
+   "Bone_03",
+   "Bone_16",
+   "Bone_17",
+   "Bone_04",
+   "Bone_11",
+   "Bone_05",
+   "Mosstown_01",
+   "Aspid_01",
+   "Aspid_01_bot",
+   "Bonetown_top_right",
+   "Bone_01b",
+   "Mosstown_02",
+   "Mosstown_02c",
+   "Bone_05b",
+   "Bone_05b_right",
+   "Tut_01_chest",
+   "Memory_Silk_Heart_BellBeast",
+   "Bone_05_right",
+   "Bellshrine",
+   "Bone_03_top",
+   "Bone_06",
+   "Bone_18",
+   "Bone_14",
+   "Bone_07",
+   "Bone_07_bot_left",
+   "Bone_19",
+   "Bone_08",
+   "Belltown_basement_03",
+   "Ant_02",
+   "Bone_12",
+   "Bone_09",
+   "Bone_16_right",
+   "Dock_08",
+   "Dock_01",
+   "Bone_East_01",
+   "Bellway_02",
+   "Bone_East_12",
+   "Room_Forge",
+   "Dock_04",
+   "Room_Forge_right",
+   "Bone_East_13",
+   "Dock_06_Church",
+   "Dock_05",
+   "Bone_East_03",
+   "Bone_East_03_right",
+   "Bone_East_04",
+   "Bone_East_04_bot",
+   "Bone_East_15",
+   "Bone_East_15_left",
+   "Ant_05b",
+   "Bone_East_04b",
+   "Bone_East_05",
+   "Ant_02b",
+   "Ant_03",
+   "Ant_04_left",
+   "Ant_04_mid",
+   "Ant_04",
+   "Ant_14",
+   "Ant_20",
+   "Bellshrine_05",
+   "Bone_East_02",
+   "Bone_East_02b",
+   "Bone_East_07",
+   "Bone_East_07_bot",
+   "Bone_East_21",
+   "Bone_East_08",
+   "Bone_East_08_right",
+   "Bone_East_09",
+   "Bone_East_14",
+   "Bone_East_Umbrella",
+   "Bone_East_14b",
+   "Bone_East_14_2",
+   "Bone_East_16",
+   "Bone_East_17b_join",
+   "Bone_East_17b",
+   "Bone_East_17",
+   "Bone_East_07_top",
+   "Bone_East_10",
+   "Bone_East_10_Room",
+   "Bone_East_11",
+   "Bone_East_22",
+   "Bellway_03",
+   "Dock_03b",
+   "Dock_03b_2",
+   "Crawl_04",
+   "Crawl_02",
+   "Ant_17",
+   "Ant_Merchant",
+   "Ant_Merchant_mid",
+   "Ant_Merchant_left",
+   "Ant_05c",
+   "Bone_East_20",
+   "Bone_East_11_top",
+   "Greymoor_01",
+   "Greymoor_01_bot",
+   "Greymoor_13",
+   "Greymoor_03",
+   "Greymoor_02",
+   "Halfway_01",
+   "Greymoor_04",
+   "Greymoor_05",
+   "Bellway_04",
+   "Greymoor_06",
+   "Greymoor_06_mid_top",
+   "Greymoor_07",
+   "Greymoor_20b",
+   "Greymoor_20c",
+   "Greymoor_15",
+   "Greymoor_15_mid",
+   "Greymoor_15b",
+   "Room_CrowCourt"
+  ],
+  "scenesMapped": [
+   "Tut_01",
+   "Tut_01_top",
+   "Tut_02",
+   "Tut_01b",
+   "Tut_03",
+   "Bonetown",
+   "Bellway_01",
+   "Bone_11",
+   "Mosstown_01",
+   "Aspid_01",
+   "Aspid_01_bot",
+   "Bonetown_top_right",
+   "Bone_01",
+   "Bone_01c",
+   "Bone_01c_bot",
+   "Bone_02",
+   "Bone_10",
+   "Bone_10_left",
+   "Bone_03",
+   "Bone_16",
+   "Bone_17",
+   "Bone_04",
+   "Bone_05",
+   "Bone_01b",
+   "Mosstown_02",
+   "Mosstown_02c",
+   "Bone_05b",
+   "Bone_05b_right",
+   "Tut_01_chest",
+   "Bone_05_right",
+   "Bellshrine",
+   "Bone_03_top",
+   "Bone_06",
+   "Bone_18",
+   "Bone_14",
+   "Bone_07",
+   "Bone_07_bot_left",
+   "Bone_19",
+   "Bone_08",
+   "Bone_12",
+   "Bone_09",
+   "Bone_16_right",
+   "Dock_08",
+   "Dock_01",
+   "Bone_East_01",
+   "Bellway_02",
+   "Bone_East_12",
+   "Room_Forge",
+   "Dock_04",
+   "Room_Forge_right",
+   "Bone_East_13",
+   "Dock_06_Church",
+   "Dock_05",
+   "Bone_East_03",
+   "Bone_East_03_right",
+   "Bone_East_04",
+   "Bone_East_04_bot",
+   "Bone_East_04b",
+   "Bone_East_05",
+   "Ant_02",
+   "Ant_05b",
+   "Ant_03",
+   "Ant_04_left",
+   "Ant_04_mid",
+   "Ant_04",
+   "Ant_14",
+   "Ant_20",
+   "Bellshrine_05",
+   "Bone_East_15",
+   "Bone_East_15_left",
+   "Bone_East_02",
+   "Bone_East_02b",
+   "Bone_East_07",
+   "Bone_East_07_bot",
+   "Bone_East_21",
+   "Bone_East_08",
+   "Bone_East_08_right",
+   "Bone_East_09",
+   "Bone_East_14",
+   "Bone_East_Umbrella",
+   "Bone_East_14b",
+   "Bone_East_14_2",
+   "Bone_East_16",
+   "Bone_East_17b_join",
+   "Bone_East_17b",
+   "Bone_East_17",
+   "Bone_East_07_top",
+   "Bone_East_10",
+   "Bone_East_10_Room",
+   "Bone_East_11",
+   "Bone_East_22",
+   "Bellway_03",
+   "Dock_03b",
+   "Dock_03b_2",
+   "Ant_17",
+   "Ant_Merchant",
+   "Ant_Merchant_mid",
+   "Ant_Merchant_left",
+   "Ant_05c",
+   "Bone_East_20",
+   "Bone_East_11_top",
+   "Greymoor_01",
+   "Greymoor_01_bot",
+   "Greymoor_13",
+   "Greymoor_03",
+   "Greymoor_02",
+   "Halfway_01",
+   "Greymoor_04",
+   "Greymoor_05",
+   "Bellway_04",
+   "Greymoor_06",
+   "Greymoor_06_mid_top",
+   "Greymoor_07",
+   "Greymoor_20b",
+   "Greymoor_20c",
+   "Greymoor_15",
+   "Greymoor_15_mid",
+   "Greymoor_15b",
+   "Room_CrowCourt"
+  ],
+  "scenesEncounteredBench": [],
+  "scenesEncounteredCocoon": [],
+  "mapUpdateQueued": false,
+  "mapAllRooms": false,
+  "HasSeenMapUpdated": true,
+  "HasSeenMapMarkerUpdated": true,
+  "HasMossGrottoMap": true,
+  "HasWildsMap": true,
+  "HasBoneforestMap": true,
+  "HasDocksMap": true,
+  "HasGreymoorMap": true,
+  "HasBellhartMap": false,
+  "HasShellwoodMap": false,
+  "HasCrawlMap": false,
+  "HasHuntersNestMap": true,
+  "HasJudgeStepsMap": false,
+  "HasDustpensMap": false,
+  "HasSlabMap": false,
+  "HasPeakMap": false,
+  "HasCitadelUnderstoreMap": false,
+  "HasCoralMap": false,
+  "HasSwampMap": false,
+  "HasCloverMap": false,
+  "HasAbyssMap": false,
+  "HasHangMap": false,
+  "HasSongGateMap": false,
+  "HasHallsMap": false,
+  "HasWardMap": false,
+  "HasCogMap": false,
+  "HasLibraryMap": false,
+  "HasCradleMap": false,
+  "HasArboriumMap": false,
+  "HasAqueductMap": false,
+  "HasWeavehomeMap": false,
+  "act3MapUpdated": false,
+  "ShakraFinalQuestAppear": false,
+  "hasPinBench": true,
+  "hasPinCocoon": false,
+  "hasPinShop": true,
+  "hasPinSpa": false,
+  "hasPinStag": true,
+  "hasPinTube": false,
+  "hasPinFleaMarrowlands": false,
+  "hasPinFleaMidlands": false,
+  "hasPinFleaBlastedlands": false,
+  "hasPinFleaCitadel": false,
+  "hasPinFleaPeaklands": false,
+  "hasPinFleaMucklands": false,
+  "hasMarker": true,
+  "hasMarker_a": true,
+  "hasMarker_b": true,
+  "hasMarker_c": true,
+  "hasMarker_d": false,
+  "hasMarker_e": false,
+  "placedMarkers": [
+   {
+    "list": []
+   },
+   {
+    "list": []
+   },
+   {
+    "list": []
+   },
+   {
+    "list": []
+   },
+   {
+    "list": []
+   }
+  ],
+  "environmentType": 6,
+  "previousDarkness": 0,
+  "HasMelodyArchitect": false,
+  "HasMelodyLibrarian": false,
+  "SeenMelodyLibrarianReturn": false,
+  "HasMelodyConductor": false,
+  "UnlockedMelodyLift": false,
+  "MelodyLiftCanReturn": false,
+  "HeardMelodyConductorNoQuest": false,
+  "ConductorWeaverDlgQueued": false,
+  "ConductorWeaverDlgHeard": false,
+  "muchTimePassed": false,
+  "pilgrimGroupBonegrave": 3,
+  "pilgrimGroupShellgrave": 3,
+  "pilgrimGroupGreymoorField": 1,
+  "shellGravePopulated": false,
+  "bellShrineBoneForest": true,
+  "bellShrineWilds": true,
+  "bellShrineGreymoor": false,
+  "bellShrineShellwood": false,
+  "bellShrineBellhart": false,
+  "bellShrineEnclave": false,
+  "completedMemory_reaper": true,
+  "completedMemory_wanderer": false,
+  "completedMemory_beast": false,
+  "completedMemory_witch": false,
+  "completedMemory_toolmaster": false,
+  "completedMemory_shaman": false,
+  "chapelClosed_reaper": true,
+  "chapelClosed_wanderer": false,
+  "chapelClosed_beast": false,
+  "chapelClosed_witch": false,
+  "chapelClosed_toolmaster": false,
+  "chapelClosed_shaman": false,
+  "bindCutscenePlayed": true,
+  "encounteredMossMother": true,
+  "defeatedMossMother": true,
+  "entered_Tut01b": true,
+  "completedTutorial": true,
+  "BonePlazaOpened": false,
+  "sawPlinneyLeft": false,
+  "savedPlinney": false,
+  "savedPlinneyConvo": false,
+  "defeatedMossEvolver": false,
+  "wokeMossEvolver": false,
+  "MetCrestUpgrader": false,
+  "MetCrestUpgraderAct3": false,
+  "CrestPreUpgradeTalked": false,
+  "CrestPreUpgradeAdditional": false,
+  "CrestPurposeQueued": false,
+  "CrestTalkedPurpose": false,
+  "CrestUpgraderTalkedSnare": false,
+  "CrestUpgraderOfferedFinal": false,
+  "HasBoundCrestUpgrader": false,
+  "churchKeeperIntro": true,
+  "churchKeeperCursedConvo": false,
+  "churchKeeperBonegraveConvo": false,
+  "bonebottomQuestBoardFixed": false,
+  "EncounteredBonetownBoss": false,
+  "DefeatedBonetownBoss": false,
+  "boneBottomAddition_RagLine": true,
+  "seenPilbyLeft": false,
+  "seenPebbLeft": false,
+  "seenBonetownDestroyed": false,
+  "bonetownPilgrimRoundActive": false,
+  "bonetownPilgrimRoundSeen": false,
+  "bonetownPilgrimHornedActive": false,
+  "bonetownPilgrimHornedSeen": false,
+  "bonetownPilgrimRoundCount": 20,
+  "bonetownPilgrimHornedCount": 10,
+  "ChurchKeeperLeftBasement": false,
+  "BoneBottomShellFrag1": false,
+  "SeenBoneBottomShopKeep": true,
+  "MetBoneBottomShopKeep": true,
+  "HeardBoneBottomShopKeepPostBoss": false,
+  "PurchasedBonebottomFaithToken": false,
+  "PurchasedBonebottomHeartPiece": false,
+  "PurchasedBonebottomToolMetal": true,
+  "BoneBottomShopKeepWillLeave": false,
+  "BoneBottomShopKeepLeft": false,
+  "bonetownCrowd": 2,
+  "grindleReleasedFromBonejail": true,
+  "explodeWallMosstown3": false,
+  "bonegraveOpen": false,
+  "mosstownAspidBerryCollected": true,
+  "bonegraveAspidBerryCollected": false,
+  "bonegraveRosaryPilgrimDefeated": false,
+  "bonegravePilgrimCrowdsCanReturn": false,
+  "ShopkeeperQuestMentioned": false,
+  "belltownBasementBreakWall": false,
+  "basementAntWall": false,
+  "hunterInfestationBoneForest": false,
+  "skullKingShortcut": false,
+  "skullKingAwake": false,
+  "skullKingDefeated": false,
+  "skullKingDefeatedBlackThreaded": false,
+  "skullKingWillInvade": false,
+  "skullKingInvaded": false,
+  "skullKingKilled": false,
+  "skullKingBenchMended": false,
+  "skullKingPlatMended": false,
+  "learnedPilbyName": false,
+  "pilbyFriendship": 1,
+  "pilbyMeetConvo": true,
+  "pilbyCampConvo": true,
+  "pilbyFirstRepeatConvo": false,
+  "pilbyMosstownConvo": false,
+  "pilbyGotSprintConvo": false,
+  "pilbyBellhartConvo": false,
+  "pilbyKilled": false,
+  "pilbyAtPilgrimsRest": false,
+  "pilbyInsidePilgrimsRest": false,
+  "pilbySeenAtPilgrimsRest": false,
+  "pilbyLeftPilgrimsRest": false,
+  "pilbyPilgrimsRestMeetConvo": false,
+  "boneBottomFuneral": false,
+  "boneBottomFuneralComplete": false,
+  "BonebottomBellwayPilgrimState": 2,
+  "BonebottomBellwayPilgrimScared": true,
+  "BonebottomBellwayPilgrimLeft": true,
+  "greatBoneGateOpened": true,
+  "bone01shortcutPlat": true,
+  "didPilgrimIntroScene": false,
+  "mosstown01_shortcut": true,
+  "encounteredBellBeast": true,
+  "defeatedBellBeast": true,
+  "bonetownAspidBerryCollected": false,
+  "pinGalleriesCompleted": 0,
+  "PilgrimStomperNPCOffered": false,
+  "pilgrimQuestSpoolCollected": false,
+  "Bone_East_04b_ExplodeWall": true,
+  "bone03_openedTrapdoor": true,
+  "bone03_openedTrapdoorForRockRoller": true,
+  "rockRollerDefeated_bone01": false,
+  "rockRollerDefeated_bone06": false,
+  "rockRollerDefeated_bone07": false,
+  "collectorEggsHatched": false,
+  "creaturesReturnedToBone10": false,
+  "ant02GuardDefeated": false,
+  "antBenchTrapDefused": true,
+  "ant04_battleCompleted": true,
+  "ant04_enemiesReturn": true,
+  "enemyGroupAnt04": 1,
+  "antMerchantKilled": false,
+  "ant21_InitBattleCompleted": false,
+  "ant21_ExtraBattleAdded": false,
+  "metAntQueenNPC": false,
+  "antQueenNPC_deepMelodyConvo": false,
+  "defeatedAntQueen": false,
+  "tookRestroomRosaries": false,
+  "encounteredLace1": true,
+  "encounteredLace1Grotto": false,
+  "encounteredLaceBlastedBridge": false,
+  "defeatedLace1": true,
+  "laceLeftDocks": false,
+  "encounteredSongGolem": true,
+  "defeatedSongGolem": true,
+  "destroyedSongGolemRock": true,
+  "boneEast07_openedMidRoof": true,
+  "openedTallGeyser": true,
+  "openedGeyserShaft": true,
+  "openedSongGateDocks": false,
+  "openedDocksBackEntrance": false,
+  "docksBomberAmbush": false,
+  "docks_02_shortcut_right": false,
+  "docks_02_shortcut_left": false,
+  "gotPastDockSpearThrower": false,
+  "encounteredDockForemen": false,
+  "defeatedDockForemen": false,
+  "boneEastJailerKilled": false,
+  "boneEastJailerClearedOut": false,
+  "MetPilgrimsRestShop": true,
+  "SeenMortLeft": false,
+  "SeenMortDead": false,
+  "PilgrimsRestShopIdleTalkState": 0,
+  "PurchasedPilgrimsRestToolPouch": true,
+  "PurchasedPilgrimsRestMemoryLocket": false,
+  "PilgrimsRestDoorBroken": true,
+  "pilgrimsRestRosaryThiefCowardLeft": false,
+  "mortKeptWeightedAnklet": false,
+  "rhinoChurchUnlocked": false,
+  "churchRhinoKilled": false,
+  "rhinoRampageCompleted": false,
+  "rhinoRuckus": false,
+  "didRhinoRuckus": false,
+  "churchRhinoBlackThreadCorpse": false,
+  "MetAntMerchant": true,
+  "SeenAntMerchantDead": false,
+  "antMerchantShortcut": true,
+  "defeatedBoneFlyerGiant": false,
+  "defeatedBoneFlyerGiantGolemScene": false,
+  "openedBeastmasterDen": false,
+  "openedCauldronShortcut": false,
+  "visitedBoneEast14b": false,
+  "cauldronShortcutUpdraft": true,
+  "lavaChallengeEntranceCavedIn": false,
+  "completedLavaChallenge": false,
+  "lavaSpittersEmerge": false,
+  "IsPinGallerySetup": false,
+  "MetPinChallengeBug": false,
+  "WasInPinChallenge": false,
+  "PinGalleryLastChallengeOpen": false,
+  "PinGalleryHasPlayedFinalChallenge": false,
+  "PinGalleryWallet": 380,
+  "HuntressQuestOffered": false,
+  "HuntressRuntQuestOffered": false,
+  "HuntressRuntAppeared": false,
+  "MottledChildGivenTool": false,
+  "MottledChildNewTool": false,
+  "encounteredAntTrapper": false,
+  "defeatedAntTrapper": false,
+  "explodeWallBoneEast18c": false,
+  "defeatedGuardBoneEast25": false,
+  "CompletedWeaveSprintChallenge": false,
+  "CompletedWeaveSprintChallengeMax": false,
+  "crashingIntoGreymoor": true,
+  "crashedIntoGreymoor": true,
+  "greymoor_04_battleCompleted": true,
+  "greymoor_10_entered": false,
+  "greymoor_05_centipedeArrives": true,
+  "killedRoostingCrowman": false,
+  "hitCrowCourtSwitch": true,
+  "tookGreymoor17Spool": false,
+  "completedGreymoor17Battle": false,
+  "CrowCourtInSession": false,
+  "OpenedCrowSummonsDoor": false,
+  "PickedUpCrowMemento": false,
+  "MetHalfwayBartender": true,
+  "HalfwayPatronsCanVisit": true,
+  "SeenHalfwayPatronLeft": false,
+  "HalfwayPatronLeftGone": false,
+  "SeenHalfwayPatronRight": false,
+  "HalfwayPatronRightGone": false,
+  "HalfwayDrinksPurchased": 0,
+  "DeclinedBartenderDrink": true,
+  "HalfwayBartenderOfferedQuest": false,
+  "HalfwayBartenderCursedConvo": false,
+  "HalfwayBartenderHauntedBellhartConvo": false,
+  "visitedHalfway": true,
+  "halfwayCrowd": 2,
+  "HalfwayScarecrawAppeared": false,
+  "HalfwayNectarOffered": false,
+  "HalfwayNectarPaid": false,
+  "MetHalfwayBartenderAct3": false,
+  "halfwayCrowEnemyGroup": 2,
+  "brokeUnderstoreFloor": false,
+  "enteredGreymoor05": true,
+  "previouslyVisitedGreymoor_05": true,
+  "greymoor05_clearedOut": false,
+  "greymoor05_killedJailer": false,
+  "greymoor05_farmerPlatBroken": false,
+  "greymoor08_plat_destroyed": false,
+  "encounteredVampireGnat_05": true,
+  "allowVampireGnatInAltLoc": false,
+  "encounteredVampireGnat_07": true,
+  "encounteredVampireGnatBoss": false,
+  "defeatedVampireGnatBoss": false,
+  "vampireGnatDeaths": 0,
+  "vampireGnatRequestedAid": false,
+  "VampireGnatDefeatedBeforeCaravanArrived": false,
+  "VampireGnatCorpseOnCaravan": false,
+  "VampireGnatCorpseInWater": false,
+  "encounteredCrowCourt": false,
+  "defeatedCrowCourt": false,
+  "defeatedWispPyreEffigy": false,
+  "wisp02_enemiesReturned": false,
+  "crawl03_oneWayWall": false,
+  "roofCrabEncountered": true,
+  "roofCrabDefeated": false,
+  "littleCrabsAppeared": false,
+  "aspid06_battleComplete": false,
+  "aspid06_cloverStagsReturned": false,
+  "aspid07_cloverStagsReturned": false,
+  "whiteCloverPos": 0,
+  "aspid_04_gate": false,
+  "aspid_16_oneway": false,
+  "aspid_16_relic": false,
+  "aspid_04b_battleCompleted": false,
+  "aspid_04b_wildlifeReturned": false,
+  "pilgrimFisherPossessed": false,
+  "spinnerEncounter": 0,
+  "encounteredSpinner": false,
+  "spinnerDefeated": false,
+  "SpinnerDefeatedTimePassed": true,
+  "shellwood14_ambushed": false,
+  "shellwoodTwigShortcut": false,
+  "encounteredSplinterQueen": false,
+  "defeatedSplinterQueen": false,
+  "splinterQueenSproutTimer": 0,
+  "splinterQueenSproutGrewLarge": false,
+  "splinterQueenSproutCut": false,
+  "shellwood13_BellWall": false,
+  "defeatedShellwoodRosaryPilgrim": false,
+  "shellwoodBellshrineTwigWall": false,
+  "seenEmptyShellwood16": false,
+  "slabFlyInShellwood16": false,
+  "shellwoodSlabflyDefeated": false,
+  "visitedShellwood_16": false,
+  "sethShortcut": false,
+  "encounteredSeth": false,
+  "sethConvo": 0,
+  "defeatedSeth": false,
+  "sethRevived": false,
+  "sethLeftShellwood": false,
+  "SethNpcLocation": 0,
+  "MetSethNPC": false,
+  "SethJoinedFleatopia": false,
+  "encounteredFlowerQueen": false,
+  "defeatedFlowerQueen": false,
+  "flowerQueenHeartAppeared": false,
+  "MetWoodWitch": false,
+  "WoodWitchOfferedItemQuest": false,
+  "WoodWitchOfferedFlowerQuest": false,
+  "WoodWitchTalkedPostQuest": false,
+  "WoodWitchOfferedCurse": false,
+  "WoodWitchGaveMandrake": false,
+  "gainedCurse": false,
+  "BlueScientistMet": false,
+  "BlueScientistQuestOffered": false,
+  "BlueAssistantCorpseFound": false,
+  "BlueAssistantEnemyEncountered": false,
+  "BlueAssistantBloodCount": 4,
+  "BlueScientistTalkedCorpse": false,
+  "BlueScientistPreQuest2Convo": false,
+  "BlueScientistQuest2Offered": false,
+  "BlueScientistQuest3Offered": false,
+  "BlueScientistInfectedSeen": false,
+  "BlueScientistInfectedMet": false,
+  "BlueScientistDead": false,
+  "BlueScientistSceneryPustulesGrown": false,
+  "dust01_battleCompleted": false,
+  "dust01_returnReady": false,
+  "dust03_battleCompleted": false,
+  "dust03_returnReady": false,
+  "openedDust05Gate": false,
+  "dust05EnemyClearedOut": false,
+  "CollectedDustCageKey": false,
+  "UnlockedDustCage": false,
+  "GreenPrinceLocation": 0,
+  "GreenPrinceSeenSong04": false,
+  "FixedDustBellBench": false,
+  "silkFarmBattle1_complete": false,
+  "grubFarmerEmerged": false,
+  "metGrubFarmer": false,
+  "grubFarmLevel": 0,
+  "farmer_grewFirstGrub": false,
+  "farmer_grubGrowing_1": false,
+  "farmer_grubGrown_1": false,
+  "farmer_grubGrowing_2": false,
+  "farmer_grubGrown_2": false,
+  "farmer_grubGrowing_3": false,
+  "farmer_grubGrown_3": false,
+  "grubFarmer_firstGrubConvo": false,
+  "grubFarmer_needolinConvo1": false,
+  "grubFarmerTimer": 0.0,
+  "silkFarmAbyssCoresCleared": false,
+  "metGrubFarmerAct3": false,
+  "DustTradersOfferedQuest": false,
+  "DustTradersOfferedPins": false,
+  "defeatedRoachkeeperChef": false,
+  "gotPickledRoachEgg": false,
+  "roachkeeperChefCorpsePrepared": false,
+  "MetGrubFarmerMimic": false,
+  "GrubFarmerMimicValueList": [
+   2,
+   1,
+   3
+  ],
+  "GrubFarmerSilkGrubsSold": 0,
+  "encounteredPhantom": false,
+  "defeatedPhantom": false,
+  "metSwampMuckmen": false,
+  "visitedShadow03": false,
+  "swampMuckmanTallInvades": false,
+  "DefeatedSwampShaman": false,
+  "thievesReturnedToShadow28": false,
+  "SeenBelltownCutscene": false,
+  "belltownCrowdsReady": false,
+  "belltownCrowd": 0,
+  "MetBelltownShopkeep": false,
+  "BelltownShopkeepCourierConvo1Accepted": false,
+  "BelltownShopkeepCourierConvo1Completed": false,
+  "BelltownShopkeepCursedConvo": false,
+  "BelltownShopkeepHouseConvo": false,
+  "BelltownShopkeepAct3Convo": false,
+  "PurchasedBelltownShellFragment": false,
+  "PurchasedBelltownToolPouch": false,
+  "PurchasedBelltownSpoolSegment": false,
+  "PurchasedBelltownMemoryLocket": false,
+  "BelltownGreeterConvo": 0,
+  "BelltownGreetCursedConvo": false,
+  "BelltownGreeterHouseHalfDlg": false,
+  "BelltownGreeterHouseFullDlg": false,
+  "BelltownGreeterFurnishingDlg": false,
+  "BelltownGreeterMetTimePassed": false,
+  "BelltownGreeterTwistedBudDlg": false,
+  "BelltownCouriersMet": false,
+  "BelltownCouriersMetAct3": false,
+  "BelltownCouriersGourmandHint": false,
+  "BelltownCouriersTalkedCursed": false,
+  "BelltownCouriersTalkedGourmand": false,
+  "BelltownCouriersBrokenDlgQueued": false,
+  "BelltownCouriersBrokenDlg": false,
+  "BelltownCouriersNotPurchasedDlg": false,
+  "BelltownCouriersPurchasedDlgBitmask": 0,
+  "BelltownCouriersFirstBeginDlg": false,
+  "PinsmithMetBelltown": false,
+  "PinsmithQuestOffered": false,
+  "PinsmithUpg2Offered": false,
+  "PinsmithUpg3Offered": false,
+  "PinsmithUpg4Offered": false,
+  "BelltownHermitMet": false,
+  "BelltownHermitEnslavedConvo": 0,
+  "BelltownHermitSavedConvo": 0,
+  "BelltownHermitCursedConvo": false,
+  "BelltownHermitConvoCooldown": false,
+  "MetBelltownBagpipers": false,
+  "BelltownBagpipersOfferedQuest": false,
+  "MetBelltownDoctorDoor": false,
+  "MetBelltownDoctorDoorAct3": false,
+  "MetBelltownDoctor": false,
+  "BelltownDoctorQuestOffered": false,
+  "BelltownDoctorFixOffered": false,
+  "BelltownDoctorMaggotSpoke": false,
+  "BelltownDoctorLifebloodSpoke": false,
+  "BelltownDoctorCuredCurse": false,
+  "BelltownDoctorConvo": 0,
+  "MetFisherHomeBasic": false,
+  "MetFisherHomeFull": false,
+  "FisherWalkerTimer": 53.8450623,
+  "FisherWalkerDirection": false,
+  "FisherWalkerIdleTimeLeft": -0.000255238265,
+  "MetBelltownRelicDealer": false,
+  "BelltownRelicDealerGaveRelic": false,
+  "BelltownRelicDealerCylinderConvo": false,
+  "BelltownRelicDealerOutroConvo": false,
+  "BelltownRelicDealerOutroConvoAllComplete": false,
+  "MetBelltownRelicDealerAct3": false,
+  "BelltownHouseState": 0,
+  "BelltownHouseUnlocked": false,
+  "BelltownHouseColour": 0,
+  "BelltownHousePaintComplete": false,
+  "BelltownFurnishingDesk": false,
+  "BelltownFurnishingSpaAvailable": false,
+  "BelltownFurnishingSpa": false,
+  "BelltownFurnishingFairyLights": false,
+  "BelltownFurnishingGramaphone": false,
+  "BelltownHousePlayingInfo": {
+   "StartTime": 0.0
+  },
+  "CrawbellInstalled": false,
+  "CrawbellTimer": 0.0,
+  "CrawbellCrawsInside": false,
+  "DeskPlacedRelicList": false,
+  "DeskPlacedLibrarianList": false,
+  "ConstructedMaterium": false,
+  "ConstructedFarsight": false,
+  "CollectedToolMetal": true,
+  "CollectedCommonSpine": true,
+  "MementosDeposited": {
+   "savedData": []
+  },
+  "MateriumCollected": {
+   "savedData": []
+  },
+  "CollectedMementoGrey": false,
+  "CollectedMementoSprintmaster": false,
+  "MetForgeDaughter": true,
+  "ForgeDaughterTalkState": 0,
+  "ForgeDaughterPurchaseDlg": false,
+  "ForgeDaughterSpentToolMetal": false,
+  "ForgeDaughterMentionedWebShot": false,
+  "MetForgeDaughterAct3": false,
+  "PurchasedForgeToolKit": false,
+  "BallowInSauna": false,
+  "BallowSeenInSauna": false,
+  "BallowLeftSauna": false,
+  "ForgeDaughterMentionedDivingBell": false,
+  "BallowMovedToDivingBell": false,
+  "BallowGivenKey": false,
+  "BallowTalkedPostRepair": false,
+  "BallowTalkedPostRepairGramaphone": false,
+  "ForgeDaughterPostAbyssDlg": false,
+  "ForgeDaughterWhiteFlowerDlg": false,
+  "SeenDivingBellGoneAbyss": false,
+  "openedGateCoral_14": false,
+  "defeatedZapGuard1": false,
+  "encounteredCoralDrillers": false,
+  "defeatedCoralDrillers": false,
+  "coralDrillerSoloReady": false,
+  "activatedStepsUpperBellbench": false,
+  "defeatedCoralBridgeGuard1": false,
+  "coralBridgeGuard2Stationed": false,
+  "defeatedCoralBridgeGuard2": false,
+  "encounteredCoralKing": false,
+  "defeatedCoralKing": false,
+  "coralKingHeartAppeared": false,
+  "metGatePilgrim": false,
+  "gatePilgrimNoNeedolinConvo": false,
+  "encounteredLastJudge": false,
+  "defeatedLastJudge": false,
+  "SeenLastJudgeGateOpen": false,
+  "pinstressStoppedResting": false,
+  "pinstressInsideSitting": false,
+  "pinstressQuestReady": false,
+  "PinstressPeakQuestOffered": false,
+  "PinstressPeakBattleOffered": false,
+  "PinstressPeakBattleAccepted": false,
+  "SteelSentinelMet": false,
+  "SteelSentinelOffered": false,
+  "EncounteredSummonedSaviour": false,
+  "SteelQuestSpots": [
+   {
+    "SceneName": "Shellwood_26",
+    "IsSeen": false
+   },
+   {
+    "SceneName": "Aqueduct_05",
+    "IsSeen": false
+   },
+   {
+    "SceneName": "Coral_28",
+    "IsSeen": false
+   }
+  ],
+  "GrowstoneState": 0,
+  "GrowstoneTimer": 0.0,
+  "SeenGrindleShop": false,
+  "grindleShopEnemyIntro": false,
+  "purchasedGrindleSimpleKey": false,
+  "purchasedGrindleMemoryLocket": false,
+  "purchasedGrindleSpoolPiece": false,
+  "purchasedGrindleToolKit": false,
+  "metGrindleAct3": false,
+  "encounteredCoralDrillerSolo": false,
+  "defeatedCoralDrillerSolo": false,
+  "coralDrillerSoloEnemiesReturned": false,
+  "defeatedZapCoreEnemy": false,
+  "wokeGreyWarrior": false,
+  "defeatedGreyWarrior": false,
+  "greyWarriorDeathX": 0.0,
+  "visitedCoralBellshrine": false,
+  "coral19_clearedOut": false,
+  "encounteredPharloomEdge": false,
+  "encounteredPharloomEdgeAct3": false,
+  "weave01_oneWay": false,
+  "weave05_oneWay": false,
+  "wokeLiftWeaver": false,
+  "visitedUpperSlab": false,
+  "slab_03_rubbishCleared": false,
+  "slab_cloak_battle_encountered": false,
+  "slab_cloak_battle_completed": false,
+  "slab_cloak_gate_reopened": false,
+  "slab_05_gateOpen": false,
+  "slab_07_gateOpen": false,
+  "slab_17_openedGateRight": false,
+  "slab_cell_quiet_oneWayWall": false,
+  "slab_17_openedGateLeft": false,
+  "slabCaptor_heardChallenge": false,
+  "slabCaptor_heardChallengeRings": false,
+  "encounteredFirstWeaver": false,
+  "defeatedFirstWeaver": false,
+  "grindleSlabSequence": 0,
+  "slabPrisonerSingConvo": false,
+  "slabPrisonerFlyConvo": false,
+  "slabPrisonerRemeetConvo": false,
+  "HasSlabKeyA": false,
+  "HasSlabKeyB": false,
+  "HasSlabKeyC": false,
+  "defeatedBroodMother": false,
+  "broodMotherEyeCollected": false,
+  "tinyBroodMotherAppeared": false,
+  "peak13_oneWay": false,
+  "peak05b_oneWay": false,
+  "peak05c_oneWay": false,
+  "peak06_oneWay": false,
+  "MetMaskMaker": false,
+  "MetMaskMakerAct3": false,
+  "MaskMakerTalkedRelationship": false,
+  "MaskMakerTalkedPeak": false,
+  "MaskMakerTalkedUnmaskedAct3": false,
+  "MaskMakerTalkedUnmasked": false,
+  "MaskMakerTalkedUnmasked1": false,
+  "MaskMakerQueuedUnmasked2": false,
+  "MaskMakerTalkedUnmasked2": false,
+  "understoreLiftBroke": false,
+  "brokeConfessional": false,
+  "droppedFloorBreakerPlat": false,
+  "rosaryThievesInUnder07": false,
+  "under07_battleCompleted": false,
+  "under07_heavyWorkerReturned": false,
+  "openedShellwoodShortcut": false,
+  "openedUnder_05": false,
+  "openedUnder_19": false,
+  "openedUnder_01b": false,
+  "MetArchitect": false,
+  "MetArchitectAct3": false,
+  "PurchasedArchitectToolKit": false,
+  "PurchasedArchitectKey": false,
+  "ArchitectTalkedCrest": false,
+  "ArchitectMentionedWebShot": false,
+  "ArchitectMentionedCogHeart": false,
+  "ArchitectMentionedMelody": false,
+  "ArchitectMelodyReturnQueued": false,
+  "ArchitectMelodyReturnSeen": false,
+  "ArchitectMelodyGainSeen": false,
+  "ArchitectWillLeave": false,
+  "ArchitectLeft": false,
+  "SeenArchitectLeft": false,
+  "citadelWoken": false,
+  "song05MarchGroupReady": false,
+  "laceMeetCitadel": false,
+  "song18Shortcut": false,
+  "encounteredLibraryEntryBattle": false,
+  "completedLibraryEntryBattle": false,
+  "scholarAmbushReady": false,
+  "libraryRoofShortcut": false,
+  "scholarAcolytesReleased": false,
+  "seenScholarAcolytes": false,
+  "scholarAcolytesInLibrary_02": false,
+  "completedLibraryAcolyteBattle": false,
+  "library_14_ambush": false,
+  "completedGrandStageBattle": false,
+  "encounteredTrobbio": false,
+  "defeatedTrobbio": false,
+  "trobbioCleanedUp": false,
+  "encounteredTormentedTrobbio": false,
+  "defeatedTormentedTrobbio": false,
+  "tormentedTrobbioLurking": false,
+  "libraryStatueWoken": false,
+  "marionettesMet": false,
+  "song_17_clearedOut": false,
+  "song_27_opened": false,
+  "marionettesBurned": false,
+  "song_11_oneway": false,
+  "citadel_encounteredFencers": false,
+  "enteredHang_08": false,
+  "LibrarianAskedForRelic": false,
+  "GivenLibrarianRelic": false,
+  "LibrarianMetAct3": false,
+  "LibrarianMentionedMelody": false,
+  "LibrarianAskedForMelody": false,
+  "LibrarianPlayingInfo": {
+   "StartTime": 0.0
+  },
+  "LibrarianCollectionComplete": false,
+  "encounteredCogworkDancers": false,
+  "defeatedCogworkDancers": false,
+  "cityMerchantSaved": false,
+  "cityMerchantIntroduced": false,
+  "cityMerchantEnclaveConvo": false,
+  "cityMerchantRecentlySeenInEnclave": false,
+  "cityMerchantInGrandForum": false,
+  "cityMerchantInGrandForumSeen": false,
+  "cityMerchantInGrandForumLeft": false,
+  "cityMerchantInLibrary03": false,
+  "cityMerchantInLibrary03Seen": false,
+  "cityMerchantInLibrary03Left": false,
+  "cityMerchantCanLeaveForBridge": false,
+  "MetCityMerchantScavenge": false,
+  "MetCityMerchantEnclave": false,
+  "MetCityMerchantEnclaveAct3": false,
+  "cityMerchantConvo1": false,
+  "cityMerchantBridgeSaveRemeet": false,
+  "MerchantEnclaveShellFragment": false,
+  "MerchantEnclaveSpoolPiece": false,
+  "MerchantEnclaveSocket": false,
+  "MerchantEnclaveWardKey": false,
+  "MerchantEnclaveSimpleKey": false,
+  "MerchantEnclaveToolMetal": false,
+  "encounteredLaceTower": false,
+  "defeatedLaceTower": false,
+  "laceCorpseScaleX": 0.0,
+  "laceCorpsePosX": 0.0,
+  "laceTowerDoorOpened": false,
+  "laceCorpseAddedEffects": false,
+  "MetGourmandServant": false,
+  "GourmandServantOfferedQuest": false,
+  "GourmandGivenStew": false,
+  "GourmandGivenNectar": false,
+  "GourmandGivenEgg": false,
+  "GourmandGivenMeat": false,
+  "GourmandGivenCoral": false,
+  "GotGourmandReward": false,
+  "MetGourmandServantAct3": false,
+  "metCaretaker": false,
+  "caretakerWardConvo": false,
+  "caretakerMerchantConvo": false,
+  "caretakerBeastConvo": false,
+  "caretakerLaceConvo": false,
+  "caretakerConvoLv1": false,
+  "caretakerConvoLv2": false,
+  "caretakerConvoLv3": false,
+  "CaretakerSwampSoulConvo": false,
+  "CaretakerSnareProgressConvo": false,
+  "CaretakerOfferedSnareQuest": false,
+  "enclaveMerchantSaved": false,
+  "enclaveMerchantSeenInEnclave": false,
+  "EnclaveStatePilgrimSmall": 0,
+  "EnclaveStateNPCShortHorned": 0,
+  "EnclaveStateNPCTall": 0,
+  "MetEnclaveScaredPilgrim": false,
+  "EnclaveStateNPCStandard": 0,
+  "EnclaveState_songKnightFan": 0,
+  "enclaveLevel": 0,
+  "enclaveDonation2_Available": false,
+  "enclaveAddition_PinRack": false,
+  "enclaveAddition_CloakLine": false,
+  "enclaveNPC_songKnightFan": false,
+  "savedGrindleInCitadel": false,
+  "grindleEnclaveConvo": false,
+  "grindleChestLocation": 0,
+  "grindleChestEncountered": false,
+  "grindleInSong_08": false,
+  "seenGrindleInSong_08": false,
+  "collectedWardKey": false,
+  "wardBossEncountered": false,
+  "wardBossDefeated": false,
+  "wardBossHatchOpened": false,
+  "collectedWardBossKey": false,
+  "wardWoken": false,
+  "garmondAidForumBattle": false,
+  "shakraAidForumBattle": false,
+  "hang_10_oneWay": false,
+  "bankOpened": false,
+  "rosaryThievesInBank": false,
+  "rosaryThievesLeftBank": false,
+  "destroyedRosaryCannonMachine": false,
+  "hang04Battle": false,
+  "leftTheGrandForum": false,
+  "grindleMetGrandForum": false,
+  "opened_cog_06_door": false,
+  "cog7_automaton_defeated": false,
+  "cog7_gateOpened": false,
+  "cog7_automatonRepairing": false,
+  "cog7_automatonRepairingComplete": false,
+  "cog7_automatonDestroyed": false,
+  "wokeSongChevalier": false,
+  "songChevalierActiveInSong_25": false,
+  "songChevalierSeenInSong_25": false,
+  "songChevalierActiveInSong_27": false,
+  "songChevalierSeenInSong_27": false,
+  "song_04_battleCompleted": false,
+  "songChevalierActiveInSong_04": false,
+  "songChevalierSeenInSong_04": false,
+  "songChevalierActiveInSong_02": false,
+  "songChevalierSeenInSong_02": false,
+  "songChevalierActiveInSong_07": false,
+  "songChevalierSeenInSong_07": false,
+  "songChevalierActiveInSong_24": false,
+  "songChevalierSeenInSong_24": false,
+  "songChevalierActiveInHang_02": false,
+  "songChevalierSeenInHang_02": false,
+  "songChevalierEncounterCooldown": false,
+  "songChevalierEncounters": 0,
+  "songChevalierRestingMet": false,
+  "songChevalierRestingMetAct3": false,
+  "songChevalierQuestReady": false,
+  "encounteredSongChevalierBoss": false,
+  "defeatedSongChevalierBoss": false,
+  "arborium_09_oneWay": false,
+  "arborium_08_oneWay": false,
+  "uncagedGiantFlea": false,
+  "tamedGiantFlea": false,
+  "encounteredSilk": false,
+  "soulSnareReady": false,
+  "caretakerSoulSnareConvo": false,
+  "encounteredSurfaceEdge": false,
+  "fullyEnteredVerdania": false,
+  "summonedLakeOrbs": false,
+  "encounteredWhiteCloverstagMid": false,
+  "encounteredWhiteCloverstag": false,
+  "defeatedWhiteCloverstag": false,
+  "encounteredCloverDancers": false,
+  "defeatedCloverDancers": false,
+  "memoryOrbs_Clover_02c_A": false,
+  "memoryOrbs_Clover_03_B": false,
+  "memoryOrbs_Clover_06_A": false,
+  "memoryOrbs_Clover_11": false,
+  "memoryOrbs_Clover_16_B": false,
+  "memoryOrbs_Clover_16_C": false,
+  "memoryOrbs_Clover_21": false,
+  "memoryOrbs_Clover_18_A": 0,
+  "memoryOrbs_Clover_18_B": 0,
+  "memoryOrbs_Clover_18_C": 0,
+  "memoryOrbs_Clover_18_D": 0,
+  "memoryOrbs_Clover_18_E": 0,
+  "memoryOrbs_Clover_19": 0,
+  "completedSuperJumpSequence": false,
+  "completedAbyssAscent": false,
+  "blackThreadWorld": false,
+  "act3_wokeUp": false,
+  "completedCog10_abyssBattle": false,
+  "act3_enclaveWakeSceneCompleted": false,
+  "AbyssBellSeenDocks": false,
+  "AbyssBellSeenDocksRepaired": false,
+  "SatAtBenchAfterAbyssEscape": false,
+  "CollectedHeartFlower": false,
+  "CollectedHeartCoral": false,
+  "CollectedHeartHunter": false,
+  "CollectedHeartClover": false,
+  "ShamanRitualCursedConvo": false,
+  "CompletedRedMemory": false,
+  "LastDiveCursedConvo": false,
+  "SnailShamansCrestConvo": false,
+  "SnailShamansCloverHeartConvo": false,
+  "EncounteredLostLace": false,
+  "MetCaravanTroupeLeader": true,
+  "SeenFleaCaravan": true,
+  "FleaQuestOffered": false,
+  "CaravanPilgrimAttackComplete": false,
+  "CaravanTroupeLocation": 0,
+  "MetCaravanTroupeLeaderGreymoor": false,
+  "CaravanTroupeLeaderCanLeaveGreymoor": false,
+  "MetCaravanTroupeLeaderGreymoorScared": false,
+  "MetCaravanTroupeLeaderJudge": false,
+  "CaravanTroupeLeaderCanLeaveJudge": false,
+  "CaravanLechSaved": false,
+  "CaravanLechReturnedToCaravan": false,
+  "CaravanLechMet": false,
+  "CaravanLechSpaAcceptState": false,
+  "CaravanLechSpaAttacked": false,
+  "CaravanLechWoundedSpoken": false,
+  "CaravanLechAct3Convo": false,
+  "CaravanHauntedBellhartConvo_TroupeLeader": false,
+  "MetTroupeHunterWild": false,
+  "TroupeHunterWildAct3Convo": false,
+  "TroupeLeaderSpokenLech": false,
+  "TroupeLeaderSpokenHunter": false,
+  "SeenFleatopiaEmpty": false,
+  "TroupeLeaderSpokenFleatopiaSearch": false,
+  "FleaGamesCanStart": false,
+  "FleaGamesStarted": false,
+  "FleaGamesPinataHit": false,
+  "FleaGamesEnded": false,
+  "grishkinSethConvo": false,
+  "fleaGames_juggling_played": false,
+  "fleaGames_juggling_highscore": 0,
+  "fleaGames_bouncing_played": false,
+  "fleaGames_bouncing_highscore": 0,
+  "fleaGames_dodging_played": false,
+  "fleaGames_dodging_highscore": 0,
+  "FleaGamesEndedContinuedPlaying": false,
+  "FleaGamesSpiritScoreAdded": false,
+  "FleaGamesMementoGiven": false,
+  "FleasCollectedTargetOrder": [
+   -1,
+   -1,
+   -1
+  ],
+  "SavedFlea_Bone_06": true,
+  "SavedFlea_Dock_16": false,
+  "SavedFlea_Bone_East_05": false,
+  "SavedFlea_Bone_East_17b": true,
+  "SavedFlea_Ant_03": true,
+  "SavedFlea_Greymoor_15b": false,
+  "SavedFlea_Greymoor_06": false,
+  "SavedFlea_Shellwood_03": false,
+  "SavedFlea_Bone_East_10_Church": false,
+  "SavedFlea_Coral_35": false,
+  "SavedFlea_Dust_12": false,
+  "SavedFlea_Dust_09": false,
+  "SavedFlea_Belltown_04": false,
+  "SavedFlea_Crawl_06": false,
+  "SavedFlea_Slab_Cell": false,
+  "SavedFlea_Shadow_28": false,
+  "SavedFlea_Dock_03d": false,
+  "SavedFlea_Under_23": false,
+  "SavedFlea_Shadow_10": false,
+  "SavedFlea_Song_14": false,
+  "SavedFlea_Coral_24": false,
+  "SavedFlea_Peak_05c": false,
+  "SavedFlea_Library_09": false,
+  "SavedFlea_Song_11": false,
+  "SavedFlea_Library_01": false,
+  "SavedFlea_Under_21": false,
+  "SavedFlea_Slab_06": false,
+  "MetSeamstress": true,
+  "SeamstressOfferedQuest": true,
+  "SeamstressIdleTalkState": 0,
+  "SeamstressCitadelConvo": false,
+  "SeamstressPinstressConvo": false,
+  "SeamstressAct3Convo": false,
+  "SeamstressBadgeConvo": false,
+  "FreedCaravanSpider": false,
+  "SeenCaravanSpider": false,
+  "MetCaravanSpider": false,
+  "CaravanSpiderTravelDirection": 0.0,
+  "OpenedCoralCaravanSpider": false,
+  "MetCaravanSpiderCoral": false,
+  "CaravanSpiderPaidExtraBellhart": false,
+  "MazeEntranceScene": "Dust_05",
+  "MazeEntranceDoor": "left1",
+  "MazeEntranceInitialScene": "Dust_05",
+  "MazeEntranceInitialDoor": "left1",
+  "PreviousMazeTargetDoor": "",
+  "PreviousMazeScene": "",
+  "PreviousMazeDoor": "",
+  "CorrectMazeDoorsEntered": 0,
+  "IncorrectMazeDoorsEntered": 0,
+  "EnteredMazeRestScene": false,
+  "WasInSceneRace": false,
+  "SprintMasterCurrentRace": 0,
+  "SprintMasterExtraRaceAvailable": false,
+  "SprintMasterExtraRaceDlg": false,
+  "SprintMasterExtraRaceWon": false,
+  "CurseKilledFlyBoneEast": false,
+  "CurseKilledFlyGreymoor": false,
+  "CurseKilledFlyShellwood": false,
+  "CurseKilledFlySwamp": false,
+  "act2Started": false,
+  "completionPercentage": 12.0,
+  "mapKeyPref": 0,
+  "promisedFirstWish": true,
+  "betaEnd": false,
+  "newDatTraitorLord": false,
+  "bossStatueTargetLevel": 0,
+  "bossRushMode": false,
+  "unlockedNewBossStatue": false,
+  "hasGodfinder": false,
+  "queuedGodfinderIcon": false,
+  "InvPaneHasNew": false,
+  "ToolPaneHasNew": false,
+  "QuestPaneHasNew": false,
+  "JournalPaneHasNew": false,
+  "CurrentCrestID": "Hunter",
+  "PreviousCrestID": "Reaper",
+  "ToolEquips": {
+   "savedData": [
+    {
+     "Name": "Hunter",
+     "Data": {
+      "IsUnlocked": true,
+      "Slots": [
+       {
+        "EquippedTool": "Straight Pin",
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Fractured Mask",
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Compass",
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Silk Spear",
+        "IsUnlocked": false
+       },
+       {
+        "IsUnlocked": false
+       },
+       {
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Rosary Magnet",
+        "IsUnlocked": true
+       }
+      ],
+      "DisplayNewIndicator": false
+     }
+    },
+    {
+     "Name": "Reaper",
+     "Data": {
+      "IsUnlocked": true,
+      "Slots": [
+       {
+        "EquippedTool": "Silk Spear",
+        "IsUnlocked": true
+       },
+       {
+        "EquippedTool": "Straight Pin",
+        "IsUnlocked": true
+       },
+       {
+        "IsUnlocked": false
+       },
+       {
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Bell Bind",
+        "IsUnlocked": true
+       },
+       {
+        "IsUnlocked": false
+       },
+       {
+        "EquippedTool": "Compass",
+        "IsUnlocked": true
+       }
+      ],
+      "DisplayNewIndicator": false
+     }
+    }
+   ]
+  },
+  "UnlockedExtraBlueSlot": false,
+  "UnlockedExtraYellowSlot": false,
+  "ExtraToolEquips": {
+   "savedData": []
+  },
+  "Tools": {
+   "savedData": [
+    {
+     "Name": "Bone Necklace",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Compass",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Silk Spear",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Rosary Magnet",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Mosscreep Tool 1",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Straight Pin",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 15
+     }
+    },
+    {
+     "Name": "Bell Bind",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 0
+     }
+    },
+    {
+     "Name": "Fractured Mask",
+     "Data": {
+      "IsUnlocked": true,
+      "IsHidden": false,
+      "HasBeenSeen": true,
+      "HasBeenSelected": false,
+      "AmountLeft": 1
+     }
+    }
+   ]
+  },
+  "ToolLiquids": {
+   "savedData": []
+  },
+  "ToolPouchUpgrades": 1,
+  "ToolKitUpgrades": 0,
+  "LightningToolToggle": false,
+  "SeenToolGetPrompt": true,
+  "SeenToolWeaponGetPrompt": true,
+  "SeenToolEquipPrompt": true,
+  "SeenToolUsePrompt": true,
+  "QuestCompletionData": {
+   "savedData": [
+    {
+     "Name": "Citadel Seeker",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": false,
+      "WasEverCompleted": false
+     }
+    },
+    {
+     "Name": "Mossberry Collection Pre",
+     "Data": {
+      "HasBeenSeen": false,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Mossberry Collection 1",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Building Materials",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Pilgrim Rags",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 13,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Save the Fleas Pre",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Save the Fleas",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": false,
+      "WasEverCompleted": false
+     }
+    },
+    {
+     "Name": "Brolly Get",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": true,
+      "WasEverCompleted": true
+     }
+    },
+    {
+     "Name": "Journal",
+     "Data": {
+      "HasBeenSeen": true,
+      "IsAccepted": true,
+      "CompletedCount": 0,
+      "IsCompleted": false,
+      "WasEverCompleted": false
+     }
+    }
+   ]
+  },
+  "QuestRumourData": {
+   "savedData": []
+  },
+  "ShellShards": 429,
+  "HasSeenGeo": true,
+  "HasSeenGeoMid": true,
+  "HasSeenGeoBig": false,
+  "HasSeenShellShards": true,
+  "HasSeenRation": false,
+  "TempGeoStore": 0,
+  "TempShellShardStore": 0,
+  "Collectables": {
+   "savedData": [
+    {
+     "Name": "Mossberry",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Rosary_Set_Frayed",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Quill",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 24,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Tool Metal",
+     "Data": {
+      "Amount": 2,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Pilgrim Rag",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Rosary_Set_Medium",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Great Shard",
+     "Data": {
+      "Amount": 1,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Shard Pouch",
+     "Data": {
+      "Amount": 2,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Crest Socket Unlocker",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Common Spine",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 0,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Rosary_Set_Small",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 1,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Dresses",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 2,
+      "AmountWhileHidden": 0
+     }
+    },
+    {
+     "Name": "Tool Pouch&Kit Inv",
+     "Data": {
+      "Amount": 0,
+      "IsSeenMask": 2,
+      "AmountWhileHidden": 0
+     }
+    }
+   ]
+  },
+  "Relics": {
+   "savedData": []
+  },
+  "UnlockedFastTravel": true,
+  "FastTravelNPCLocation": 3,
+  "UnlockedFastTravelTeleport": false,
+  "UnlockedDocksStation": true,
+  "UnlockedBoneforestEastStation": true,
+  "UnlockedGreymoorStation": true,
+  "UnlockedBelltownStation": false,
+  "UnlockedCoralTowerStation": false,
+  "UnlockedCityStation": false,
+  "UnlockedPeakStation": false,
+  "UnlockedShellwoodStation": false,
+  "UnlockedShadowStation": false,
+  "UnlockedAqueductStation": false,
+  "bellCentipedeAppeared": false,
+  "UnlockedSongTube": false,
+  "UnlockedUnderTube": false,
+  "UnlockedCityBellwayTube": false,
+  "UnlockedHangTube": false,
+  "UnlockedEnclaveTube": false,
+  "UnlockedArboriumTube": false,
+  "MushroomQuestFound1": false,
+  "MushroomQuestFound2": false,
+  "MushroomQuestFound3": false,
+  "MushroomQuestFound4": false,
+  "MushroomQuestFound5": false,
+  "MushroomQuestFound6": false,
+  "MushroomQuestFound7": false,
+  "StoryEvents": [
+   {
+    "EventType": 1,
+    "SceneName": "Bone_East_13",
+    "PlayTime": 7948.16455
+   },
+   {
+    "EventType": 3,
+    "SceneName": "Ant_20",
+    "PlayTime": 12197.93
+   },
+   {
+    "EventType": 0,
+    "SceneName": "Bone_East_20",
+    "PlayTime": 16572.2266
+   }
+  ]
+ },
+ "sceneData": {
+  "persistentBools": {
+   "serializedList": [
+    {
+     "SceneName": "Tut_01",
+     "ID": "Interact Reminder (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Reminder Look Down",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Bone Chest",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Moss Vine Cluster (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Moss Vine Cluster",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Moss Vine Cluster (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Sound Control",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker New (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker New (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Remasker New thumper",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Weakness Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Silkfly Ambient (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Silkfly Ambient",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Silkfly Ambient (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Silkfly Ambient (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01",
+     "ID": "Bone Thumper",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Remasker",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Remasker (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "One Way VineWall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "moss_berry_fruit",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01b",
+     "ID": "remask right",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01b",
+     "ID": "moss_berry_fruit",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Interact Reminder",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Weakness Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Silkfly Ambient",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Moss Vine Cluster",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Moss Vine Cluster (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Geo Med Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Geo Small Persistent (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Weakness Scene",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Bone Lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Mapper Sit NPC",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Geo Small Persistent (4)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Geo Small Persistent (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Inverse Remasker (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Secret Mask",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Collapser Small (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Rock Roller",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Bone Lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Geo Med Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "bell_toll_machine",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Inverse Remasker",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Inverse Remasker (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_02",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_02",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_02",
+     "ID": "Chain Drop Platform",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Song_Gate_small",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "GLOBAL_SHARED",
+     "ID": "Caravan Troupe Hunter",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "GLOBAL_SHARED",
+     "ID": "Caravan Lech",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_03",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Breakable Wall (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Breakable Wall (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Bone Carriage",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (5)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (6)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Bone Gate",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Song_lever_side right",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (4)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Rock Roller",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Bone Lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Trapdoor Lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Geo Small Persistent (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "Generic Pickup(Clone)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Vine Platform",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "moss_bone_plaque",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Remasker New Sharp",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Silkfly Ambient (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Silkfly Ambient (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Silkfly Ambient",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Thick Silk Vines",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Thick Silk Vines (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Reminder Silk Skill (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Reminder Silk Skill",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "Generic Pickup(Clone)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Aspid_01",
+     "ID": "Collectable Item Pickup (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Aspid_01",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Aspid_01",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Aspid_01",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01b",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02c",
+     "ID": "Moss Creep NPC",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_05b",
+     "ID": "Secret Sound Region",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_05b",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Memory_Silk_Heart_BellBeast",
+     "ID": "glow_rim_Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_06",
+     "ID": "Rock Roller",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_18",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_18",
+     "ID": "Battle Scene",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Remasker New (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Remasker New (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Rock Roller",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall fake (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall fake",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall fake (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall fake (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "explode_wall (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "tool_metal_deposit",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Collectable Item Pickup - Tool Metal",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "Breakable Wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "Bone Chest",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "Geo Small Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "Geo Small Persistent (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "Geo Small Persistent (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_08",
+     "ID": "lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_08",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "One Way Wall (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "One Way Wall (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "One Way Wall (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "One Way Wall (5)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "Collapser Small_Bell_Type",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "Collapser Small_Bell_Type (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "Collapser Small_Bell_Type (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_02",
+     "ID": "Bone Hunter Throw",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_02",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "Thief Dummy",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "jail_door (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "jail_door (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "Pilgrim StaffWielder",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "Thief NPC Save",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_09",
+     "ID": "grave_marker_break_grey",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_09",
+     "ID": "sack_breakable_single",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_09",
+     "ID": "Pilgrim 01",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_09",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_08",
+     "ID": "Heart Piece",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_08",
+     "ID": "Battle Scene",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_08",
+     "ID": "Song_Gate_small",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_08",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_08",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_01",
+     "ID": "bell_toll_machine",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_05",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_05",
+     "ID": "Song_Gate_small",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_05",
+     "ID": "Song_lever_side (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_05",
+     "ID": "Barrel Plat Lift (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Song_lever_side (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Barrel Plat Lift",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Barrel Plat Lift (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_02",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_02",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_12",
+     "ID": "Song_Gate_small",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_12",
+     "ID": "Song_Gate_small_demo",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_12",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_12",
+     "ID": "Dock Key Receptacle",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Shell Shard 02 Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Shell Shard 01 Persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Song_Gate_small",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Collectable Item Pickup (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "dock_sealed_gate",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_10",
+     "ID": "dock_pressure_plate_lock",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat (6)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Coal Bucket Plat (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Silk Spool",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "City Shard Chest",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_03",
+     "ID": "Bone Hunter Child Alerter",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_03",
+     "ID": "grave_marker_break_grey",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_03",
+     "ID": "DockDashExplodeRock",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04",
+     "ID": "explode_wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "bell_toll_machine",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Song_Gate_small (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05b",
+     "ID": "ant_lever_persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05b",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04b",
+     "ID": "Reminder Look Down",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04b",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04b",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_04b",
+     "ID": "Breakable Wall (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04_left",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_20",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellshrine_05",
+     "ID": "Song_lever_side old",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "Secret Mask New (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "Remasker_Left",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "Secret Mask New (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "explode_wall (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "explode_wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "explode_wall (5)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "explode_wall (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "explode_wall (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_21",
+     "ID": "Mapper Sit NPC",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_08",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_09",
+     "ID": "Secret Mask New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_09",
+     "ID": "Wind Rock (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_09",
+     "ID": "Wind Rock (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_09",
+     "ID": "Wind Rock (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "Collectable Item Pickup (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "DropBomb Rock (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "Secret Mask New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "explode_wall (4)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "explode_wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "explode_wall (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "explode_wall (3)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "DropBomb Rock",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "DropBomb Rock (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "Spine Floater Spine P (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "Spine Floater Spine P (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "DontDestroyOnLoad",
+     "ID": "Collectable Item Pickup Instant(Clone)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_16",
+     "ID": "Breakable Wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17b",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17",
+     "ID": "Secret Mask New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17",
+     "ID": "Ant Chest",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17",
+     "ID": "ant_lever_persistent",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_10",
+     "ID": "Remasker New (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_10",
+     "ID": "Chain Drop Platform (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Song_lever_side",
+     "ID": "Bone_East_10_Church",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Pilgrims Rest",
+     "ID": "Toll Door",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_10_Room",
+     "ID": "Toll Door Breakable Cog",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "Song_lever_side (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "Song_lever_side",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "DropBomb Rock",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "Wind Rock",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "explode_wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "Bone East 11 Cross Over Group",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_11",
+     "ID": "Remasker New Sharp",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "bell_toll_machine",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "Secret Mask New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "Secret Mask New (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "Wind Rock (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "Wind Rock",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_03",
+     "ID": "craw_court_summons_pin",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_03b",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_03b",
+     "ID": "Remasker New (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_03b",
+     "ID": "Remasker New",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_03b",
+     "ID": "Remasker New (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "Breakable Wall (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "Heart Piece",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Crawl_02",
+     "ID": "aspid_sealed_gate_stone",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_17",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_17",
+     "ID": "Gilly",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_Merchant",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05c",
+     "ID": "Remasker New Sharp",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05c",
+     "ID": "Remasker New Sharp (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05c",
+     "ID": "Gilly",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "Heart Piece",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "DropBomb Rock",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "Remasker New Sharp",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "explode_wall_norck",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "Wind Rock (9)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "Wind Rock (10)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_20",
+     "ID": "Wind Rock (8)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_01",
+     "ID": "Song_lever_side",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_01",
+     "ID": "Bell Chain Plat",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_13",
+     "ID": "Remasker New (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "Hornet_pressure_plate_small_persistent",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "Secret Mask New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_03",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_03",
+     "ID": "Hornet_cage_rect_lift_greymoor",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Breakable Wall",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Mapper Sit NPC",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Silk Spool",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Greymoor Stand Lever - Bridge",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Greymoor Stand Lever - Crane",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Craw_home_front",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Craw_home_front (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Craw_home_right",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Flyaway Scene",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Silk Grub Small Cocoon 1 (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent (5)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Small Persistent (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Silk Grub Large Cocoon",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Silk Grub Small Cocoon 2",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "propeller (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "propeller (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "propeller (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "propeller (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "Garmond Fighter",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "Collectable Item Pickup",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat (4)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat (5)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "greymoor_breakable_plat",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_04",
+     "ID": "Remasker New Sharp",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_04",
+     "ID": "plank_wall_cluster",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_06",
+     "ID": "belltown_lever_drop_plat",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_06",
+     "ID": "Remasker New",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "One Way Wall",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "greymoor_lever_simple",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "Inverse Remasker",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "Inverse Remasker (5)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "Inverse Remasker (6)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "greystore_floor_shortcut",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "greymoor_lever_simple",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "Geo Small Persistent",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "Geo Small Persistent (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "Craw_home_right",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Collectable Item Pickup",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Greymoor Stand Lever",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Greymoor Stand Lever (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Geo Small Persistent (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Geo Small Persistent (3)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Geo Small Persistent",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Geo Small Persistent (2)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Craw_home_right",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Craw_home_right (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Remasker New Sharp Ultra",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "Remasker New Sharp Ultra (1)",
+     "Value": false,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Battle Scene",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_front (2)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_front (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_front",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_hang",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_hang (1)",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_right",
+     "Value": true,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "Craw_home_right (1)",
+     "Value": true,
+     "Mutator": 0
+    }
+   ]
+  },
+  "persistentInts": {
+   "serializedList": [
+    {
+     "SceneName": "Tut_01",
+     "ID": "Shell Shard Fossil Large Uni",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Shell Shard Fossil Tiny Bumpy",
+     "Value": 1,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Shell Shard Fossil Tiny Egg",
+     "Value": 1,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Tut_02",
+     "ID": "Shell Shard Fossil Tiny Front",
+     "Value": 1,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Tut_01b",
+     "ID": "Shell Shard Fossil Mid (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Tut_01b",
+     "ID": "Shell Shard Fossil Tiny Egg",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Tut_01b",
+     "ID": "Shell Shard Fossil Tiny Front",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Tut_03",
+     "ID": "Churchkeeper Basement",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "rosary_string_small_half",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "rosary_shrine_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "rosary_string_medium",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Churchkeeper",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Fixer Pilgrim Bench Repair",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Fixer Pilgrim",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Fixer NPC Standing",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bonetown",
+     "ID": "Mapper NPC",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellway_01",
+     "ID": "Bellway Pilgrim",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "rosary_string_small_half (2)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "rosary_string_small",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01",
+     "ID": "Shell Shard Fossil Tiny Egg",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "rosary_string_medium",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "rosary_shrine_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Caravan Troup Member Tall",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_10",
+     "ID": "Caravan Troup Member Short",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Shell Shard Fossil Tiny Front (2)",
+     "Value": 1,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Shell Shard Fossil Tiny Front (3)",
+     "Value": 1,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Mapper NPC",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_11",
+     "ID": "rosary_string_small_mixed",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_11",
+     "ID": "rosary_string_small",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "rosary_string_small (1)",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_01",
+     "ID": "rosary_string_small (2)",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01b",
+     "ID": "rosary_string_small_half",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01b",
+     "ID": "rosary_shrine_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01b",
+     "ID": "rosary_string_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "rosary_string_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Mosstown_02",
+     "ID": "rosary_string_small_half",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellshrine",
+     "ID": "Bellshrine Sequence",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_06",
+     "ID": "Shell Fossil Mimic AppearVariant",
+     "Value": 30,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Shell Shard Fossil Tiny Bumpy",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Shell Shard Fossil Tiny Front",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Shell Fossil Mimic",
+     "Value": 30,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_07",
+     "ID": "Shell Shard Fossil Large Uni",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "rosary_string_small_half",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_19",
+     "ID": "rosary_string_small",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "rosary_cache_hang_bell",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "rosary_cache_bell_ground (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Belltown_basement_03",
+     "ID": "rosary_cache_bell_ground",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_02",
+     "ID": "Shell Shard Fossil Tiny Egg",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Ant_02",
+     "ID": "Shell Shard Fossil Tiny Front",
+     "Value": 0,
+     "Mutator": 1
+    },
+    {
+     "SceneName": "Dock_01",
+     "ID": "Song Shard Barrel",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_01",
+     "ID": "Mapper NPC",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_Forge",
+     "ID": "Song Shard Barrel",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Shell Shard Fossil Dock (2)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Shell Shard Fossil Dock (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_13",
+     "ID": "Shell Shard Fossil Dock (3)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "rosary_string_small_half",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "rosary_string_small",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "rosary_string_small (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Dock_06_Church",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_03",
+     "ID": "Shell Fossil Mimic",
+     "Value": 30,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_05b",
+     "ID": "rosary_shrine_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_12",
+     "ID": "Thief NPC Saved",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04_left",
+     "ID": "ant_rosary_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04_left",
+     "ID": "ant_item_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04_left",
+     "ID": "ant_rosary_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04_mid",
+     "ID": "Mapper NPC",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04",
+     "ID": "ant_shell_shard_string (2)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_04",
+     "ID": "ant_shell_shard_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bellshrine_05",
+     "ID": "Bellshrine Sequence",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_02b",
+     "ID": "Shell Shard Fossil Mid",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_07",
+     "ID": "rosary_string_small_half",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "rosary_string_small",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "rosary_string_medium",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14",
+     "ID": "Shell Fossil Mimic",
+     "Value": 30,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "rosary_string_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_14b",
+     "ID": "rosary_string_small_half",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_16",
+     "ID": "ant_rosary_string (2)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_16",
+     "ID": "ant_rosary_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_16",
+     "ID": "ant_rosary_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17b",
+     "ID": "ant_rosary_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17b",
+     "ID": "ant_rosary_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17",
+     "ID": "ant_rosary_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_17",
+     "ID": "ant_rosary_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_10",
+     "ID": "Sherma Docks NPC",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_Merchant",
+     "ID": "ant_shell_shard_string",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_Merchant",
+     "ID": "ant_shell_shard_string (2)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_Merchant",
+     "ID": "ant_shell_shard_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Ant_Merchant",
+     "ID": "ant_shell_shard_string (3)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_03",
+     "ID": "rosary_string_small_half",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_03",
+     "ID": "Hornet_cage_rect_lift_greymoor",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_03",
+     "ID": "rosary_string_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "rosary_string_small_half",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "rosary_string_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_02",
+     "ID": "Seth Sit NPC Greymoor",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "HH Bartender",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "HH Patron Right",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Halfway_01",
+     "ID": "HH Patron Left",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "rosary_string_small_half",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "Garmond Sleep NPC",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "rosary_shrine_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "rosary_string_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20b",
+     "ID": "scissor_string (7)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20b",
+     "ID": "scissor_string (4)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20b",
+     "ID": "scissor_string (6)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20b",
+     "ID": "scissor_string (5)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (4)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (2)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (7)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (8)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (9)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (5)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (6)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_20c",
+     "ID": "scissor_string (1)",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "rosary_string_small_half (2)",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "rosary_string_small_half (3)",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "rosary_string_small_half (1)",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15b",
+     "ID": "rosary_string_small",
+     "Value": -1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small_half (6)",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small_half (8)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small_half (7)",
+     "Value": 1,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small_half (1)",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small_half",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_small",
+     "Value": 2,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Room_CrowCourt",
+     "ID": "rosary_string_medium",
+     "Value": 3,
+     "Mutator": 0
+    }
+   ]
+  },
+  "geoRocks": {
+   "serializedList": [
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Geo Rock 3",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_01c",
+     "ID": "Geo Rock 1 (1)",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Geo Rock 1",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Geo Rock 2 (1)",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_16",
+     "ID": "Geo Rock 2",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_04",
+     "ID": "Geo Rock 3",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Aspid_01",
+     "ID": "Geo Rock 2",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_14",
+     "ID": "Geo Rock 1",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_08",
+     "ID": "Geo Rock 1",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_08",
+     "ID": "Geo Rock 2",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Geo Rock 2",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_15",
+     "ID": "Geo Rock 1",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Bone_East_08",
+     "ID": "Geo Rock 2",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_01",
+     "ID": "Geo Rock Deepnest",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_04",
+     "ID": "Geo Rock Deepnest",
+     "Value": 3,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_05",
+     "ID": "Geo Rock Deepnest",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_06",
+     "ID": "Geo Rock Deepnest",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_07",
+     "ID": "Geo Rock Deepnest",
+     "Value": 0,
+     "Mutator": 0
+    },
+    {
+     "SceneName": "Greymoor_15",
+     "ID": "Geo Rock 1",
+     "Value": 3,
+     "Mutator": 0
+    }
+   ]
+  }
+ }
+}

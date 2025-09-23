@@ -46,9 +46,10 @@ func aesDecrypt(ciphertext, key []byte) ([]byte, error) {
 
 func DecryptSingleFile(infile string) error {
 
-	splitpath := strings.Split(infile, "/")
-	fname := splitpath[len(splitpath)-1]
-	opname := fmt.Sprintf("%s-decoded.json", strings.Split(fname, ".")[0])
+	// splitpath := strings.Split(infile, "/")
+	// fname := splitpath[len(splitpath)-1]
+	fname := filepath.Base(infile)
+	opname := fmt.Sprintf("%s-decoded.json", strings.TrimSuffix(fname, filepath.Ext(fname)))
 
 	data, err := os.ReadFile(infile)
 	if err != nil {
@@ -89,7 +90,7 @@ func DecryptSingleFile(infile string) error {
 	}
 	// fmt.Println("before write: md5:", md5.Sum(formatted.Bytes()))
 
-	err = os.WriteFile("./DECODED/"+opname, formatted.Bytes(), 0644)
+	err = os.WriteFile(filepath.Join("DECODED", opname), formatted.Bytes(), 0644)
 	if err != nil {
 		return err
 	}
@@ -209,9 +210,10 @@ func inttobyte(insclice []int) []byte {
 }
 
 func EncryptSingleFile(infile string) error {
-	splitpath := strings.Split(infile, "/")
-	fname := splitpath[len(splitpath)-1]
-	opname := fmt.Sprintf("%s-encoded.dat", strings.Split(fname, "-decoded")[0])
+	// splitpath := strings.Split(infile, "/")
+	// fname := splitpath[len(splitpath)-1]
+	fname := filepath.Base(infile)
+	opname := fmt.Sprintf("%s-encoded.dat", strings.TrimSuffix(fname, filepath.Ext(fname)))
 
 	fdata, err := os.ReadFile(infile)
 	if err != nil {
@@ -240,7 +242,7 @@ func EncryptSingleFile(infile string) error {
 	prefixed = append(inttobyte(csheader), append(prefixed, []byte{byte(11)}...)...)
 	// fmt.Println("after length prefix: md5: ", md5.Sum(prefixed))
 
-	err = os.WriteFile("./ENCODED/"+opname, prefixed, 0644)
+	err = os.WriteFile(filepath.Join("ENCODED", opname), prefixed, 0644)
 	if err != nil {
 		return err
 	}
